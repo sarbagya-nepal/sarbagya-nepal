@@ -1,42 +1,62 @@
-## 💜✨ Hey, I'm Sarbagya
-— Computer science student interested in software development, and building things that actually work (most of the time). —
+<div align="center">
+# 🌙 SARBAGYA 🌙
 
-<p align="center">✦━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✦</p>
+### ◈ Computer Science Student ◈ Software Developer ◈ Linux Enthusiast ◈
 
-### 🎯 What I'm focusing on right now
-- Getting better with **React** + modern frontend  
-- Learning proper **UI/UX fundamentals**  
-- Building small projects with clean design  
-- Customizing **Arch Linux** like it’s an art form
-  
-<p align="center">✦━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✦</p>
+*building things in the digital void*
 
-### 🚀 Tech & Tools
+<img src="https://img.shields.io/badge/status-coding_in_the_dark-8B00FF?style=for-the-badge" />
 
-**Frontend**
-  
-![JS](https://img.shields.io/badge/JavaScript-2E0249?style=for-the-badge&logo=javascript&logoColor=F1E05A)
-![TS](https://img.shields.io/badge/TypeScript-4A0E4E?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-5A189A?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-7B2CBF?style=for-the-badge&logo=tailwindcss&logoColor=white)
+</div>
 
-**Tools**
+---
 
-![Git](https://img.shields.io/badge/Git-9D4EDD?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-C77DFF?style=for-the-badge&logo=github&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-E0AAFF?style=for-the-badge&logo=neovim&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-B692FE?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## 🕯️ CURRENTLY HAUNTING
 
-**OS**
+```js
+const currentFocus = {
+  frontend: "React + Modern Stack",
+  design: "UI/UX Fundamentals",
+  projects: "Clean, Functional, Aesthetic",
+  linux: "Arch Customization as Dark Art"
+};
+```
 
-![Linux](https://img.shields.io/badge/Arch_Linux-240046?style=for-the-badge&logo=archlinux&logoColor=white)
+---
 
-<p align="center">✦━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✦</p>
+## ⚡ ARSENAL
 
-### 🌐 Links
-📧 Email: **sarbagyanpl@gmail.com**  
-🌍 Portfolio: *coming soon…*
+### 🌑 Frontend Sorcery
+![JS](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=9D00FF) 
+![TS](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=8B00FF) 
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=7D3C98) 
+![Tailwind](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=A569BD)
 
-<p align="center">✦━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✦</p>
+### 🗡️ Tools of the Trade
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=8E44AD) 
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=9B59B6) 
+![Neovim](https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=BB8FCE) 
+![VSCode](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=D7BDE2)
 
-![purple-badge](https://img.shields.io/badge/Made_With_Love-8A2BE2?style=for-the-badge)
+### 🦇 System
+![Arch](https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=8B00FF)
+
+---
+
+## 📡 TRANSMISSIONS
+
+```
+📧 sarbagyanpl@gmail.com
+🌐 portfolio: manifesting...
+```
+
+---
+
+<div align="center">
+
+*"code is poetry written in shadows"*
+
+![footer](https://img.shields.io/badge/crafted_with-dark_magic-8B00FF?style=for-the-badge)
+
+</div>
+```

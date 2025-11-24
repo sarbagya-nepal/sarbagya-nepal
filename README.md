@@ -1,16 +1,15 @@
-## Hi there 👋
+## 💜✨ Hey, I'm Sarbagya
+— Computer science student interested in software development, and building things that actually work (most of the time). —
 
-<!--
-**sarbagya-nepal/sarbagya-nepal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎯 What I'm focusing on right now
 
-Here are some ideas to get you started:
+ - Getting better with React + modern frontend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Learning proper UI/UX fundamentals
+
+ - Building small projects with clean design
+
+ - Customizing Arch Linux like it’s an art form
+
+📈 GitHub Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbagya-nepal&layout=compact&theme=tokyonight" height="150"> </p>

@@ -12,11 +12,22 @@
 <p align="center">✦━━━━━━━━༻❁༺━━━━━━━━✦</p>
 
 ### 🚀 Tech & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" height="48" />
-  <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode" height="48" />
-  <img src="https://skillicons.dev/icons?i=linux,arch" height="48" />
-</p>
+
+**Frontend**
+> **JavaScript** ▓▓▓▓▓▓▓░  
+> **TypeScript** ▓▓▓▓░░░░░  
+> **React** ▓▓▓▓▓▓░░░  
+> **TailwindCSS** ▓▓▓▓▓▓▓▓░  
+
+**Tools**
+> **Git** ▓▓▓▓▓▓▓▓▓  
+> **GitHub** ▓▓▓▓▓▓▓▓░  
+> **Neovim** ▓▓▓▓▓▓░░░  
+> **VS Code** ▓▓▓▓▓▓▓▓▓  
+
+**OS**
+> **Arch Linux** ██████████  
+> **Linux** █████████░░  
 
 <p align="center">✦━━━━━━━━༻❁༺━━━━━━━━✦</p>
 

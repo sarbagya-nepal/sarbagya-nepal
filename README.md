@@ -12,4 +12,4 @@
  - Customizing Arch Linux like it’s an art form
 
 📈 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbagya-nepal&layout=compact&theme=tokyonight" height="150"> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sarbagya-nepal&show_icons=true&theme=tokyonight" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbagya-nepal&layout=compact&theme=tokyonight" height="150"> </p>

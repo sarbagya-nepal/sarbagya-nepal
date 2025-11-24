@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🌙 SARBAGYA 🌙
+# 🌙 Sarbagya Nepal 🌙
 **Computer Science Student • Linux Enthusiast**
 
-*Building things that work (most of the time)*
+*Building things that work (most of the time ... hopefully)*
 
 </div>
 

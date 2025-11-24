@@ -1,10 +1,6 @@
 ## 💜✨ Hey, I'm Sarbagya
 — Computer science student interested in software development, and building things that actually work (most of the time). —
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="60%">
-</p>
-
 ### 🎯 What I'm focusing on right now
 - Getting better with **React** + modern frontend  
 - Learning proper **UI/UX fundamentals**  
@@ -18,16 +14,8 @@
   <img src="https://skillicons.dev/icons?i=linux,arch" height="48" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="60%">
-</p>
-
 ### 🌐 Links
 📧 Email: **sarbagyanpl@gmail.com**  
 🌍 Portfolio: *coming soon…*
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-![purple-badge](https://img.shields.io/badge/purple_magic-8A2BE2?style=for-the-badge)
+![purple-badge](https://img.shields.io/badge/Made_With_Love-8A2BE2?style=for-the-badge)

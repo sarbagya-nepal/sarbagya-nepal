@@ -9,7 +9,7 @@
 
 ---
 
-###🕯️ What I'm focusing on right now
+### 🕯️ What I'm focusing on right now
 
 - Getting better with **React** + modern frontend  
 - Learning proper **UI/UX fundamentals**  
@@ -18,7 +18,7 @@
 
 ---
 
-### Tech Stack
+### ⚡ARSENAL
 
 **🌑 Sorcery**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=9D4EDD) ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=B185DB) ![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=C77DFF) ![Tailwind](https://img.shields.io/badge/Tailwind-1a1a1a?style=for-the-badge&logo=tailwindcss&logoColor=E0AAFF)
@@ -31,7 +31,7 @@
 
 ---
 
-### Contact
+### 📡 Contact
 
 📧 **sarbagyanpl@gmail.com**  
 🌐 **Portfolio:** *coming soon*
@@ -43,4 +43,3 @@
 ![footer](https://img.shields.io/badge/crafted_with-dark_magic-8B00FF?style=for-the-badge)
 
 </div>
-```

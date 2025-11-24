@@ -29,7 +29,7 @@
 **OS**
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-240046?style=for-the-badge&logo=archlinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-3C096C?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-3C096C?style=for-the-badge&logo=windows&logoColor=white)
 
 <p align="center">✦━━━━━━━━༻❁༺━━━━━━━━✦</p>
 

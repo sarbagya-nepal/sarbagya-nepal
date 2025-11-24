@@ -1,8 +1,7 @@
-```markdown
 <div align="center">
 
-# Sarbagya
-
+# 🌙 SARBAGYA 🌙
+### ◈ Computer Science Student ◈ Software Developer ◈ Linux Enthusiast ◈
 **Computer Science Student • Software Developer**
 
 *Building things that work (most of the time)*

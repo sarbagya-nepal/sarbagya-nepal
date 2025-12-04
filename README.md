@@ -44,6 +44,6 @@
 
 <div align="center">
 
-![footer](https://img.shields.io/badge/crafted_with-dark_magic-8B00FF?style=for-the-badge)
+![footer](https://img.shields.io/badge/crafted_with-love-8B00FF?style=for-the-badge)
 
 </div>
